@@ -1,0 +1,54 @@
+2026-04-19 16:05:15 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\Assistant Méd - Copie (Accès refusé)
+2026-04-19 16:05:15 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\CHECK YOUR MAIL ! (Accès refusé)
+2026-04-19 16:05:15 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\cicflowmeter (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\idk (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\iFogSim-main (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\IT-WAVE (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\OneDrive_1_10-03-2026 (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\OneDrive_1_14-03-2026 (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\OneDrive_1_23-03-2026 (Accès refusé)
+2026-04-19 16:05:16 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\Original_Slit-lamp_Images (Accès refusé)
+2026-04-19 16:05:17 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\Telegram Desktop (Accès refusé)
+2026-04-19 16:05:17 DEBUG swing.common.SwingUtils    C:\Users\House Computer\Downloads\When the shell speaks,secret reveal themselves (Accès refusé)
+2026-04-19 16:05:33 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\House Computer\Documents\arp_AI.pcap
+2026-04-19 16:05:51 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\House Computer\Desktop\Data_Sec
+2026-04-19 16:05:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\House Computer\Documents\arp_AI.pcap
+2026-04-19 16:05:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@20f35854class org.jnetpcap.protocol.network.Ip4: size=48 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=21828)
+********************************************************************************
+0000:*ff ff ff ff  ff ff f8 e4  e3 70 1d 90  08 06 00 01    .........p......
+0010: 08 00 06 04  00 01 f8 e4  e3 70 1d 90  c0 a8 01 08    .........p......
+0020: 00 00 00 00  00 00 c0 a8  01 01                       ..........      
+
+
+2026-04-19 16:05:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@20f35c10class org.jnetpcap.protocol.network.Ip4: size=48 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=22784)
+********************************************************************************
+0000:*ff ff ff ff  ff ff a2 6f  57 dc 9a 16  08 06 00 01    .......oW.......
+0010: 08 00 06 04  00 01 a2 6f  57 dc 9a 16  c0 a8 01 06    .......oW.......
+0020: 00 00 00 00  00 00 c0 a8  01 01                       ..........      
+
+
+2026-04-19 16:05:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\House Computer\Documents\arp_AI.pcap
+2026-04-19 16:06:02 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\House Computer\Documents\arp_AI.pcap
+2026-04-19 16:06:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@20f54620class org.jnetpcap.protocol.network.Ip4: size=48 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=19472)
+********************************************************************************
+0000:*ff ff ff ff  ff ff f8 e4  e3 70 1d 90  08 06 00 01    .........p......
+0010: 08 00 06 04  00 01 f8 e4  e3 70 1d 90  c0 a8 01 08    .........p......
+0020: 00 00 00 00  00 00 c0 a8  01 01                       ..........      
+
+
+2026-04-19 16:06:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Invalid [0,60,60) range.
+JMemory: JMemory@20f549dcclass org.jnetpcap.protocol.network.Ip4: size=48 bytes
+JMemory: owner=nio.JMemoryPool$Block.class(size=32768/offset=20428)
+********************************************************************************
+0000:*ff ff ff ff  ff ff a2 6f  57 dc 9a 16  08 06 00 01    .......oW.......
+0010: 08 00 06 04  00 01 a2 6f  57 dc 9a 16  c0 a8 01 06    .......oW.......
+0020: 00 00 00 00  00 00 c0 a8  01 01                       ..........      
+
+
+2026-04-19 16:06:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on C:\Users\House Computer\Documents\arp_AI.pcap
