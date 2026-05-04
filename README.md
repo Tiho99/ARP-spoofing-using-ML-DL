@@ -73,16 +73,16 @@ Open the following file in your browser:
 
 arp_detection_app.html
 
-#Objective
+# Objective
 
 Detect ARP Spoofing attacks effectively
 Compare the performance of ML and DL models
 Provide a simple interface for testing and demonstration
 
-#Author
+# Author
 
 Tiho99
 
-#License
+# License
 
 This project is intended for educational and research purposes.
