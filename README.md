@@ -5,7 +5,7 @@ This project aims to detect ARP Spoofing attacks using Machine Learning (ML) and
 
 ARP Spoofing is a network attack that allows an attacker to intercept, alter, or block communication between devices on a network. This project provides an intelligent approach to identify such attacks based on network traffic data.
 
-#Models
+Models
 
 The following models are implemented and evaluated:
 
@@ -24,7 +24,7 @@ The project uses labeled network traffic data:
 
 CIC_MITM_ArpSpoofing_All_Labelled_datasets.csv
 
-#PCAP to CSV Conversion
+PCAP to CSV Conversion
 
 To convert raw network traffic files (.pcap) into structured .csv format, you can use:
 
@@ -32,7 +32,7 @@ https://github.com/ahlashkari/CICFlowMeter
 
 This tool extracts relevant network flow features required for training and evaluation.
 
-#Graphical Interface
+Graphical Interface
 
 A simple graphical interface is included:
 
@@ -52,7 +52,7 @@ Features:
 ├── data_to_test.csv            
 └── README.md
 
-#Installation and Usage
+Installation and Usage
 
 
 Clone the repository
@@ -61,7 +61,7 @@ cd <repository_name>
 Install dependencies
 pip install -r requirements.txt
 
-#Run the notebook
+Run the notebook
 
 
 jupyter notebook ARP_models.ipynb
@@ -71,16 +71,16 @@ Open the following file in your browser:
 
 arp_detection_app.html
 
-#Objective
+Objective
 
 Detect ARP Spoofing attacks effectively
 Compare the performance of ML and DL models
 Provide a simple interface for testing and demonstration
 
-#Author
+Author
 
 Tiho99
 
-#License
+License
 
 This project is intended for educational and research purposes.
